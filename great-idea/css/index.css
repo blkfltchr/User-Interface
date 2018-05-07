@@ -62,3 +62,128 @@ h1, h2, h3, h4, h5 {
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
+/* 
+.container {
+	margin-left: 15%;
+	margin-right: 15%;
+	margin: 0 auto;
+} 
+*/
+
+
+header {
+	height: 100px;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-top: 20px;
+}
+
+header nav a {
+	display: inline-block;
+	padding: 0px 50px;
+	color: gray;
+	text-decoration: none;
+}
+
+header nav .logo {
+	float: right;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+h1  {
+	font-size: 100px;
+	text-align: center;
+}
+
+.cta-button {
+    border: solid black 1px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	font-size: 16px;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.cta {
+	display: inline-block;
+	width: 90%;
+}
+
+.cta-text {
+	display: inline-block;
+	margin-left: 10%;
+}
+
+.snippet {
+	float: right;
+  }
+
+  hr {
+	  width: 90%;
+	  margin-top: 50px;
+	  margin-bottom: 20px;
+  }
+
+  .top-content {
+	  display: inline-block;
+	  margin-left: 5%;
+	  margin-right: 5%;
+	  margin-bottom: 50px;
+  }
+
+  .text-content-left {
+	float: left;
+	width: 50%;
+	font-size: 24px;
+}
+
+  .text-content-right {
+	  float: right;
+	  width: 50%;
+	  font-size: 24px;
+  }
+
+  .middle-img {
+	  width: 90%;
+	  margin-left: 5%;
+	  margin-right: 5%;
+  }
+
+  .bottom-content {
+	  display: inline-block;
+	  width: 90%;
+	  margin-left: 5%;
+	  margin-right: 5%;
+	  margin-top: 50px;
+  }
+
+  .text-content-left2 {
+	  float: left;
+	  width: 33%;
+	  font-size: 24px;
+  }
+
+  .text-content-right2 {
+	float: left;
+	width: 33%;
+	font-size: 24px;
+}
+
+.text-content-middle2 {
+	float: left;
+	width: 33%;
+	font-size: 24px;
+}
+
+footer {
+	text-align: center;
+}
+
+.contact {
+	margin-left: 5%;
+	font-size: 24px;
+}
